@@ -17,7 +17,8 @@ O projeto está estruturado da seguinte forma:
 /controllers/: Contém a lógica de controle que conecta o modelo e a visualização, realizando as operações de CRUD.
 /views/: Representa a interface de usuário que interage com o usuário.
 /scripts/: Responsável pela interação entre o modelo, o controlador e a visão.
-Descrição das Pastas e Arquivos
+
+### Descrição das Pastas e Arquivos
 /models: Contém os dados e lógica de manipulação.
 /views: Interface de usuário.
 /controllers: Lógica de controle das operações.
